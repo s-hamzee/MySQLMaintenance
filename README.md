@@ -5,10 +5,10 @@ to repair and/or optimize mysql tables on the fly
 
 just pass values on the command line to the following parameters:
 
-dbName
+  -dbName
 
-dbUserName
+  -dbUserName
 
-dbPassword
+  -dbPassword
 
 must be run in localhost.
